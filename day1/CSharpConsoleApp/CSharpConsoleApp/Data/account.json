@@ -1,0 +1,52 @@
+[
+  {
+    "Accno": 1001,
+    "Name": "John Smith",
+    "Balance": 2500.50
+  },
+  {
+    "Accno": 1002,
+    "Name": "Sarah Johnson",
+    "Balance": 1750.25
+  },
+  {
+    "Accno": 1003,
+    "Name": "Michael Brown",
+    "Balance": 3200.00
+  },
+  {
+    "Accno": 1004,
+    "Name": "Emily Davis",
+    "Balance": 4100.75
+  },
+  {
+    "Accno": 1005,
+    "Name": "David Wilson",
+    "Balance": 890.30
+  },
+  {
+    "Accno": 1006,
+    "Name": "Lisa Anderson",
+    "Balance": 5500.00
+  },
+  {
+    "Accno": 1007,
+    "Name": "Robert Garcia",
+    "Balance": 1200.45
+  },
+  {
+    "Accno": 1008,
+    "Name": "Jennifer Martinez",
+    "Balance": 3750.80
+  },
+  {
+    "Accno": 1009,
+    "Name": "Christopher Lee",
+    "Balance": 2100.60
+  },
+  {
+    "Accno": 1010,
+    "Name": "Amanda Taylor",
+    "Balance": 6200.95
+  }
+]
