@@ -1,0 +1,11 @@
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\bin\Debug\net8.0\MathCalcLib.deps.json
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\bin\Debug\net8.0\MathCalcLib.dll
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\bin\Debug\net8.0\MathCalcLib.pdb
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\MathCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\MathCalcLib.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\MathCalcLib.AssemblyInfo.cs
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\MathCalcLib.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\MathCalcLib.dll
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\refint\MathCalcLib.dll
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\MathCalcLib.pdb
+C:\LiveSessionKoenig\GH300-Oct\day1\CalcSolution\MathCalcLib\obj\Debug\net8.0\ref\MathCalcLib.dll

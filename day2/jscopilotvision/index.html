@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji Pattern Matching Game</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="game-container">
+        <div class="game-header">
+            <h1 class="matches-counter">Matches found : 0</h1>
+            <h2 class="timer-label">Timer</h2>
+            <div class="timer-display">00:00:000</div>
+        </div>
+        
+        <div class="game-board" id="gameBoard">
+            <!-- Cards will be generated dynamically -->
+        </div>
+        
+        <div class="game-controls">
+            <button id="newGameBtn" class="new-game-btn">New Game</button>
+            <button id="resetBtn" class="reset-btn">Reset</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

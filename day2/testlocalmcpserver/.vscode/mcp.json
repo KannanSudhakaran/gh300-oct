@@ -1,0 +1,22 @@
+{
+  "servers": {
+    "mykannan-localmcp": {
+    
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\LiveSessionKoenig\\GH300-Oct\\gh300-oct\\day2\\mytestchessapi",
+        "run",
+        "chess"
+      ],
+      "cwd": "C:\\LiveSessionKoenig\\GH300-Oct\\gh300-oct\\day2\\mytestchessapi",
+      "env": {}
+    },
+    "mygithub-remotemcp":{
+     "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+       
+    }
+}
+
+}
